@@ -22,3 +22,4 @@ let person = {
 }
 console.log(person.name)
 console.log(typeof person)
+console.log(person["age"])
